@@ -1,6 +1,7 @@
 ---
+layout: default
+nav_enabled: true
 title:	Home
-layout:	Home
 ---
 
 # Title #
