@@ -1,6 +1,6 @@
 ---
 title:	Home
-layout:	Alpha
+layout:	Home
 ---
 
 # Title #
