@@ -3,3 +3,6 @@ description: A starter template using Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
 url: https://robert-brown19.github.io/Test-Do-Train
+
+aux_links:
+  Template Repository: https://github.com/just-the-docs/just-the-docs-template
