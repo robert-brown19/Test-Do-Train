@@ -18,4 +18,4 @@ This is a ~ # *bare-minimum* # ~ template to create a Jekyll site that uses the 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](/Chapter 1).
+[Link to another page](/README).
