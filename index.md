@@ -14,3 +14,8 @@ This is a ~ # *bare-minimum* # ~ template to create a Jekyll site that uses the 
 ```mermaid
   info
 ```
+
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+[Link to another page](/).
